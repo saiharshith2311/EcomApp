@@ -6,6 +6,11 @@ dist/
 target/
 *.log
 
+<<<<<<< HEAD
+=======
+application-local.properties
+
+>>>>>>> fdd4bf806552075b56c14f85343f46a6117ba3aa
 # Docker / DB
 mysql-data/
 *.sock
