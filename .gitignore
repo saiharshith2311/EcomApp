@@ -1,0 +1,22 @@
+# Node
+node_modules/
+dist/
+
+# Spring Boot / Java
+target/
+*.log
+
+application-local.properties
+
+# Docker / DB
+mysql-data/
+*.sock
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
